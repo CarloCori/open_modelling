@@ -1,6 +1,5 @@
 def fattoriale(x):
-    """ 
-    this function returns the factorial of a number x
+    """ this function returns the factorial of a number x
     to store the value in a variable use value = factorial(x)
     """
     f = 1  
